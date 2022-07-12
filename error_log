@@ -1,0 +1,89 @@
+[16-Feb-2021 06:22:17 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/nelsonsm/public_html/vendor/composer/platform_check.php on line 25
+[18-Feb-2021 02:04:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:33 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:04:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:15:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:15:44 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:15:47 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
+[18-Feb-2021 02:15:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:830
+Stack trace:
+#0 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(830): ReflectionClass->__construct('view')
+#1 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(712): Illuminate\Container\Container->build('view')
+#2 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(811): Illuminate\Container\Container->make('view', Array)
+#5 /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(135 in /home/nelsonsm/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 832
