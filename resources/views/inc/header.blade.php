@@ -27,7 +27,7 @@
             <ul class="social-icons social-icons-light mb-n1">
             <li class="social-icons-twitter"><a data-toggle="tooltip" href="https://twitter.com/teckb0t" target="_blank" title="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a></li>
         <li class="social-icons-facebook"><a data-toggle="tooltip" href="https://web.facebook.com/sopuruchukwu.nelson/" target="_blank" title="" data-original-title="Facebook"><i class="fa fa-facebook-f"></i></a></li>
-            <li class="social-icons-github"><a data-toggle="tooltip" href="http://www.github.com/NelsonSmart" target="_blank" title="" data-original-title="Github"><i class="fa fa-github"></i></a></li>
+            <li class="social-icons-github"><a data-toggle="tooltip" href="https://www.github.com/NelsonSmart" target="_blank" title="" data-original-title="Github"><i class="fa fa-github"></i></a></li>
             <li class="social-icons-linkedin"><a data-toggle="tooltip" href="https://www.linkedin.com/in/nelsonsmart/" target="_blank" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
              <li class="social-icons-whatsapp"><a data-toggle="tooltip" href="https://wa.me/message/YQNUKJ3UXPIJA1" target="_blank" title="" data-original-title="Whatsapp"><i class="fa fa-whatsapp"></i></a></li>
             </ul>

@@ -194,7 +194,7 @@
         </div>
         
        </div>
-        <div class="text-center mt-5"><a href="{{ asset('assets/CV/OJUKWU_NELSON_SOPURUCHUKWU_CV.pdf')}}" class="btn btn-outline-secondary rounded-pill shadow-none">Download CV <span class="ml-1"><i class="fa fa-download"></i></span></a></div>
+        <div class="text-center mt-5"><a href="{{ asset('assets/CV/OJUKWU_NELSON_SOPURUCHUKW_CV.pdf')}}" class="btn btn-outline-secondary rounded-pill shadow-none">Download CV <span class="ml-1"><i class="fa fa-download"></i></span></a></div>
       </div>
     </section>
     <!-- Resume end --> 
@@ -219,11 +219,11 @@
               Anambra , Nigeria. </p>
             <p class="text-3 mb-1"><span class="text-primary text-4 mr-2"><i class="fa fa-phone"></i></span>(234) 903 346 1413</p>
             <p class="text-3 mb-1"><span class="text-primary text-4 mr-2"><i class="fa fa-fax"></i></span>(234) 810 896 5690</p>
-            <p class="text-3 mb-4"><span class="text-primary text-4 mr-2"><i class="fa fa-envelope"></i></span><a href="mailto:nelsonsm@nelsonsmart.com">nelsonsm@nelsonsmart.com </a></p>
+            <p class="text-3 mb-4"><span class="text-primary text-4 mr-2"><i class="fa fa-envelope"></i></span><a href="mailto:nelsonsopuruchukwu.mail@gmail.com">nelsonsopuruchukwu.mail@gmail.com </a></p>
             <ul class="social-icons ml-md-n2 justify-content-center justify-content-md-start">
              <li class="social-icons-twitter"><a data-toggle="tooltip" href="https://twitter.com/teckb0t" target="_blank" title="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a></li>
               <li class="social-icons-facebook"><a data-toggle="tooltip" href="https://web.facebook.com/sopuruchukwu.nelson/" target="_blank" title="" data-original-title="Facebook"><i class="fa fa-facebook-f"></i></a></li>
-              <li class="social-icons-github"><a data-toggle="tooltip" href="http://www.github.com/NelsonSmart" target="_blank" title="" data-original-title="Github"><i class="fa fa-github"></i></a></li>
+              <li class="social-icons-github"><a data-toggle="tooltip" href="https://www.github.com/NelsonSmart" target="_blank" title="" data-original-title="Github"><i class="fa fa-github"></i></a></li>
               <li class="social-icons-linkedin"><a data-toggle="tooltip" href="https://www.linkedin.com/in/nelsonsmart" target="_blank" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
               <li class="social-icons-whatsapp"><a data-toggle="tooltip" href="https://wa.me/message/YQNUKJ3UXPIJA1" target="_blank" title="" data-original-title="Whatsapp"><i class="fa fa-whatsapp"></i></a></li>
             </ul>
