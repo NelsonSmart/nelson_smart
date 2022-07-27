@@ -10,7 +10,8 @@
     <section id="home">
       <div class="hero-wrap">
         <div class="hero-mask opacity-8 bg-dark"></div>
-        <div class="hero-bg parallax" style="background-image:url('assets/images/NelsonSmart.jpg');"></div>
+        <div class="hero-bg parallax" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 1; background-image: none; transition-property: opacity; transition-duration: 1000ms; background-image:url('assets/images/backG.jpg');">
+           </div>
         <div class="hero-content section d-flex fullscreen">
           <div class="container my-auto">
             <div class="row">
@@ -18,19 +19,21 @@
                 <div class="typed-strings">
                  <p>PythonDev.</p>
                   <p>PhpDev.</p>
+                  <p>Backend Engineer.</p>
+                  <p>Bash Scripting.</p>
                   <p>LaravelDev.</p>
-                  <p>DjangoDev.</p>
+                  <p>Cyber Security.</p>
                   <p>I am a Freelancer.</p>
                 </div>
                 
                 <p class="text-7 font-weight-500 text-white mb-2 mb-md-3 ">I'm Ojukwu Nelson S. <span class =" typed-cursor typed-cursor--blink"> |</span></p>
                 <h2 class="text-16 font-weight-600 text-white mb-2 mb-md-3"><span class="typed"></span></h2>
                 <p class="text-5 text-light mb-4">based in owerri, imo .</p>
-			         	<a href="{{route('index')}}" class="btn btn-outline-primary rounded-pill shadow-none  mt-2">Hire Me</a>
+			         	<a href="#contact" class="btn btn-outline-primary rounded-pill shadow-none smooth-scroll mt-2">Hire Me</a>
               </div>
             </div>
           </div>
-          <a href="#services" class="scroll-down-arrow text-white smooth-scroll"><span class="animated"><i class="fa fa-chevron-down"></i></span></a> </div>
+          <a href="#about" class="scroll-down-arrow text-white smooth-scroll"><span class="animated"><i class="fa fa-chevron-down"></i></span></a> </div>
       </div>
     </section>
     <!-- Intro end --> 

@@ -7,7 +7,7 @@
 <link href="{{ asset('assets/images/nes.png')}}" rel="icon" />
 <title>NelsonSmart - Personal Portfolio</title>
 <meta name="description" content="NelsonSmart is a personal Portfolio for freelance, Ojukwu Nelson Sopuruchukwu">
-<meta name="author" content="https://github/NelsonSmart.com">
+<meta name="author" content="https://github.com/NelsonSmart">
 <meta name="robots" content="noindex" />
 
 <!-- Web Fonts -->

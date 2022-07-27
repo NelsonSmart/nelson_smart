@@ -5,7 +5,10 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactMail;
+use App\Models\Education;
 use App\Models\Enquiry;
+use App\Models\Qualification;
+use App\Models\Service;
 
 class SendEmailController extends Controller
 {
@@ -16,7 +19,12 @@ class SendEmailController extends Controller
      */
     public function index()
     {
-        return view('index');
+       
+        return view('index', [
+            'services' =>Service::all(),
+            'educations' => Education::all(),
+            'qualifications' => Qualification::all()
+    ]);
     }
 
     /**
@@ -59,7 +67,7 @@ class SendEmailController extends Controller
        //     return redirect()->back();
       //  }
         
-            Mail::to('nelsonsm@nelsonsmart.com')->send(new ContactMail($data));
+            Mail::to('nelsonsopuruchukwu.mail@gmail.com')->send(new ContactMail($data));
             return redirect() ->route('index')->with('success', 'Thanks for contacting us!');
 
      
